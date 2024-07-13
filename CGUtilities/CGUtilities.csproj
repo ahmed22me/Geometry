@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <OutputType>Library</OutputType>
+    <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.CSharp" Version="4.7.0" />
+    <PackageReference Include="System.Data.DataSetExtensions" Version="4.5.0" />
+    <PackageReference Include="Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers" Version="0.4.346202">
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Remove="DataStructures\Algorithms.cs" />
+    <Compile Remove="DataStructures\Bag.cs" />
+    <Compile Remove="DataStructures\BigList.cs" />
+    <Compile Remove="DataStructures\CollectionBase.cs" />
+    <Compile Remove="DataStructures\Comparers.cs" />
+    <Compile Remove="DataStructures\Deque.cs" />
+    <Compile Remove="DataStructures\DictionaryBase.cs" />
+    <Compile Remove="DataStructures\Hash.cs" />
+    <Compile Remove="DataStructures\ListBase.cs" />
+    <Compile Remove="DataStructures\MultiDictionary.cs" />
+    <Compile Remove="DataStructures\MultiDictionaryBase.cs" />
+    <Compile Remove="DataStructures\OrderedBag.cs" />
+    <Compile Remove="DataStructures\OrderedDictionary.cs" />
+    <Compile Remove="DataStructures\OrderedMultiDictionary.cs" />
+    <Compile Remove="DataStructures\OrderedSet.cs" />
+    <Compile Remove="DataStructures\Pair.cs" />
+    <Compile Remove="DataStructures\ReadOnlyCollectionBase.cs" />
+    <Compile Remove="DataStructures\ReadOnlyDictionaryBase.cs" />
+    <Compile Remove="DataStructures\ReadOnlyListBase.cs" />
+    <Compile Remove="DataStructures\ReadOnlyMultiDictionaryBase.cs" />
+    <Compile Remove="DataStructures\RedBlack.cs" />
+    <Compile Remove="DataStructures\Set.cs" />
+    <Compile Remove="DataStructures\Strings.cs" />
+    <Compile Remove="DataStructures\Triple.cs" />
+    <Compile Remove="DataStructures\Util.cs" />
+  </ItemGroup>
+</Project>

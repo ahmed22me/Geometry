@@ -1,0 +1,16 @@
+D:\CG\geometry\CGUtilities\bin\Debug\netstandard2.0\CGUtilities.deps.json
+D:\CG\geometry\CGUtilities\bin\Debug\netstandard2.0\CGUtilities.dll
+D:\CG\geometry\CGUtilities\bin\Debug\netstandard2.0\CGUtilities.pdb
+D:\CG\geometry\CGUtilities\obj\Debug\netstandard2.0\CGUtilities.csproj.AssemblyReference.cache
+D:\CG\geometry\CGUtilities\obj\Debug\netstandard2.0\CGUtilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\CG\geometry\CGUtilities\obj\Debug\netstandard2.0\CGUtilities.csproj.CoreCompileInputs.cache
+D:\CG\geometry\CGUtilities\obj\Debug\netstandard2.0\CGUtilities.dll
+D:\CG\geometry\CGUtilities\obj\Debug\netstandard2.0\CGUtilities.pdb
+E:\geometry-master\geometry-master\CGUtilities\bin\Debug\netstandard2.0\CGUtilities.deps.json
+E:\geometry-master\geometry-master\CGUtilities\bin\Debug\netstandard2.0\CGUtilities.dll
+E:\geometry-master\geometry-master\CGUtilities\bin\Debug\netstandard2.0\CGUtilities.pdb
+E:\geometry-master\geometry-master\CGUtilities\obj\Debug\netstandard2.0\CGUtilities.csproj.AssemblyReference.cache
+E:\geometry-master\geometry-master\CGUtilities\obj\Debug\netstandard2.0\CGUtilities.GeneratedMSBuildEditorConfig.editorconfig
+E:\geometry-master\geometry-master\CGUtilities\obj\Debug\netstandard2.0\CGUtilities.csproj.CoreCompileInputs.cache
+E:\geometry-master\geometry-master\CGUtilities\obj\Debug\netstandard2.0\CGUtilities.dll
+E:\geometry-master\geometry-master\CGUtilities\obj\Debug\netstandard2.0\CGUtilities.pdb
