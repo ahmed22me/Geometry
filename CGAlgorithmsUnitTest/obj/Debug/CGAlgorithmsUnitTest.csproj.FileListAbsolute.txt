@@ -1,0 +1,12 @@
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.dll
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithmsUnitTest.pdb
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.dll
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.dll
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGAlgorithms.pdb
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\bin\Debug\CGUtilities.pdb
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.AssemblyReference.cache
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CoreCompileInputs.cache
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.csproj.CopyComplete
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.dll
+D:\CGUI-master\CGUI-master\CGAlgorithmsUnitTest\obj\Debug\CGAlgorithmsUnitTest.pdb
